@@ -18,11 +18,11 @@ const App = () => {
   return (
     <div className="App">
       <Header />
-      <About data={mainn} />
-      <Resume data={resu} />
-      <Portfolio data={porto} />
-      <Contact data={mainn} />
-      <Footer data={mainn} />
+      <About />
+      <Resume />
+      <Portfolio />
+      <Contact />
+      <Footer />
     </div>
   );
 };
