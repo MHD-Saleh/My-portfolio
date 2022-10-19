@@ -57,7 +57,7 @@ const Header = () => {
             <h2>
               I am a Front-end developer
               <br />
-              for both (React JS, Flutter) development .
+              for both (React JS, Flutter) development.
             </h2>
           </Fade>
           <hr />
