@@ -8,7 +8,8 @@ import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 import ReactGA from "react-ga";
 
-ReactGA.initialize("G-7D84501S6W");
+const TRACKING_ID = "G-YYGNPDL6VE";
+ReactGA.initialize(TRACKING_ID);
 
 const App = () => {
   useEffect(() => {
