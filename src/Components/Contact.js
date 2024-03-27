@@ -1,11 +1,11 @@
-import React from "react";
+ import React from "react";
 import { Fade, Slide } from "react-reveal";
 
 const Contact = () => {
-  const name = "Mhd Saleh";
+  const name = "mohammed Saleh";
 
-  const city = "Damascus";
-  const state = "Ruken AL-Din";
+  const city = "Egypt/Giza";
+  const state = "6th of October, 781 Al Ashraf Street";
 
   const phone = "+963 992278948";
   const message =
