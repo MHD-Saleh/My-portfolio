@@ -31,7 +31,7 @@ If you're seeking a highly skilled and experienced mobile and web development ex
                   <br />
                   <span>+963-992278948</span>
                   <br />
-                  <span>Saleh.alsaleh.1998@hotmail.com</span>
+                  <span>Saleh.alsaleh.1998@hotmail.com</span>   <br />
                   <span>mohammed.saleh.alsaleh.98@gmail.com</span>
                 </p>
               </div>
