@@ -5,7 +5,7 @@ const Contact = () => {
   const name = "mohammed Saleh";
 
   const city = "Egypt/Giza";
-  const state = "6th of October, 781 Al Ashraf Street";
+  const state = "6th of October,Al Ashraf Street";
 
   const phone = "+963 992278948";
   const message =
