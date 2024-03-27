@@ -16,8 +16,7 @@ const About = () => {
             <h2>About Me</h2>
 
             <p>
-              My name is mohammed AL-Saleh, 24 years, in the final year of
-              software engineering, Exceptionally creative and dependable Lead
+              My name is mohammed AL-Saleh, 26 years, Bachelor in Software Engineering, Exceptionally creative and dependable Lead
               Front-end Developer with superb work ethic. I am knowledgeable in
               a wide variety of computer languages as well as the principles and
               techniques of website construction and mobile apps.
@@ -26,13 +25,14 @@ const About = () => {
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
-                  <span>MHD Saleh</span>
+                  <span>Mohammed Saleh</span>
                   <br />
-                  <span>Damascus/Ruken AL-Din</span>
+                  <span>Egypt/ Giza/ 6th of October, 781 Al Ashraf Street</span>
                   <br />
                   <span>+963-992278948</span>
                   <br />
                   <span>Saleh.alsaleh.1998@hotmail.com</span>
+                  <span>mohammed.saleh.alsaleh.98@gmail.com</span>
                 </p>
               </div>
               <div className="columns download">
