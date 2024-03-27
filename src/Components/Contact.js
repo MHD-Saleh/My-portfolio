@@ -8,6 +8,7 @@ const Contact = () => {
   const state = "6th of October,Al Ashraf Street";
 
   const phone = "+963 992278948";
+  const phone2 = "+20 1550797654";
   const message =
     "I'D like to hear from you if you'd like Qoute, or more information aboute working with me,please fill out the form ,and i will response as soon as possible";
 
@@ -108,6 +109,8 @@ const Contact = () => {
                 {city}, {state}
                 <br />
                 <span>{phone}</span>
+                <br />
+                <span>{phone2}</span>
               </p>
             </div>
           </aside>
