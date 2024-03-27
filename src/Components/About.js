@@ -27,7 +27,7 @@ const About = () => {
                 <p className="address">
                   <span>Mohammed Saleh</span>
                   <br />
-                  <span>Egypt/ Giza/ 6th of October, 781 Al Ashraf Street</span>
+                  <span>Egypt/ Giza/ 6th of October, Al Ashraf Street</span>
                   <br />
                   <span>+963-992278948</span>
                   <br />
