@@ -105,7 +105,6 @@ const Resume = () => {
                       <em className="date">2017</em>
                     </p>
                     <p>
-                      Yarmouk Private University
                         Bachelor in Software Engineering
                     </p>
                   </div>
