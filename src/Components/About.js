@@ -16,10 +16,10 @@ const About = () => {
             <h2>About Me</h2>
 
             <p>
-              My name is mohammed AL-Saleh, 26 years, Bachelor in Software Engineering, Exceptionally creative and dependable Lead
-              Front-end Developer with superb work ethic. I am knowledgeable in
-              a wide variety of computer languages as well as the principles and
-              techniques of website construction and mobile apps.
+              With over 5 years of experience in Android mobile app development and 4 years specializing in Flutter hybrid mobile app development, alongside 4 years of expertise as a React.js developer, I am a seasoned Mobile Developer dedicated to delivering top-notch solutions across diverse platforms. I bring expertise in crafting clean, readable, and testable code, with a strong understanding of architectural patterns in both mobile and web development.
+Having built numerous applications across various domains, I possess a deep understanding of mobile and web development principles and am adept at translating client requirements into robust, user-centric solutions. My commitment to quality assurance ensures that all projects are completed to the highest standards and delivered on time.
+As a freelancer, customer satisfaction is paramount to me. I take pride in exceeding client expectations, meeting deadlines, and prioritizing clear communication throughout the development process.
+If you're seeking a highly skilled and experienced mobile and web development expert with a passion for quality and client satisfaction, I'm here to bring your vision to life.
             </p>
             <div className="row">
               <div className="columns contact-details">
