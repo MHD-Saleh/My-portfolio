@@ -18,7 +18,7 @@ const Resume = () => {
     },
     {
       name: "flutter",
-      level: "70%",
+      level: "85%",
     },
     {
       name: "Redux",
@@ -105,8 +105,8 @@ const Resume = () => {
                       <em className="date">2017</em>
                     </p>
                     <p>
-                      Start Education at YPU at software engineering faculty
-                      (last Year)
+                      Yarmouk Private University
+                        Bachelor in Software Engineering
                     </p>
                   </div>
                 </div>
